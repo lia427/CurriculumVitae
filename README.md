@@ -20,7 +20,7 @@ Puedes ver un resumen de mi experiencia y habilidades a continuación.
 
 Aquí encontrarás los documentos que respaldan mi trayectoria profesional:
 
-* **[Curriculum Vitae (CV) - Laia Solanell.pdf](CV_Laia_Solanell.pdf)**
+* **[Curriculum Vitae (CV) - Laia Solanell.pdf](CV_Laia_Solanell_Cast.pdf)**
     * Un resumen detallado de mi formación, experiencia laboral y habilidades técnicas y blandas.
 
 * **[Carta de Recomendación - Hospital Sant Joan de Déu.pdf](Recomendation_letter_Laia_GF_NB.pdf)** 
